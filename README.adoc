@@ -1,0 +1,120 @@
+//
+// SPDX-License-Identifier: CC0-1.0
+//
+
+= Awesome sysexits
+:awesome-badge: https://awesome.re/badge-flat.svg
+:awesome-url: https://awesome.re/
+:github-url: https://github.com
+:cc0-badge: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
+:cc-url: https://creativecommons.org
+:cc0-url: {cc-url}/publicdomain/zero/1.0
+:cc0-summary-url: {cc0-url}
+:cc0-legalcode-url: {cc0-url}/legalcode
+
+image:{awesome-badge}[Awesome, link={awesome-url}]
+
+A curated list of awesome things related to `<sysexits.h>`.
+
+toc::[]
+
+== Implementations
+
+=== Dart
+
+{github-url}/mateusfccp/exitcode[exitcode]::
+
+  Preferred system exit codes as defined by `<sysexits.h>`.
+
+=== Go
+
+{github-url}/Code-Hex/exit[exit]::
+
+  Error makes exit code meaningful.
+
+{github-url}/dedelala/sysexits[sysexits]::
+
+  Preferable exit codes for programs, `<sysexits.h>` for Go!
+
+{github-url}/sean-/sysexits[sysexits]::
+
+  Go sysexits.
+
+=== JavaScript
+
+{github-url}/jeanlauliac/sysexits[sysexits]::
+
+  Provide `sysexits(3)` exit codes in Node.js.
+
+=== Julia
+
+{github-url}/sorairolake/Sysexits.jl[Sysexits.jl]::
+
+  The system exit codes as defined by `<sysexits.h>` for Julia.
+
+=== PHP
+
+{github-url}/assimtech/sysexits[sysexits]::
+
+  PHP Implementation of `<sysexits.h>`.
+
+=== Python
+
+{github-url}/rumpelsepp/exitcode[exitcode]::
+
+  Preferred system exit codes as defined by `<sysexits.h>`.
+
+=== Ruby
+
+{github-url}/ged/sysexits[sysexits]::
+
+  Exit status codes for Ruby system programs.
+
+=== Rust
+
+{github-url}/benwilber/exitcode[exitcode]::
+
+  Preferred system exit codes as defined by `<sysexits.h>`.
+
+{github-url}/Fleshgrinder/rust-exit-code[rust-exit-code]::
+
+  Commonly used exit codes for usage in applications.
+
+{github-url}/sorairolake/sysexits-rs[sysexits-rs]::
+
+  The system exit codes as defined by `<sysexits.h>` for Rust.
+
+=== Zig
+
+{github-url}/sorairolake/sysexits-zig[sysexits-zig]::
+
+  The system exit codes as defined by `<sysexits.h>` for Zig.
+
+== Resources
+
+=== Manual pages
+
+https://leaf.dragonflybsd.org/cgi/web-man?command=sysexits&section=3[DragonFly On-Line Manual Pages]::
+
+  `sysexits(3)` for https://www.dragonflybsd.org/[DragonFly BSD].
+
+https://man.freebsd.org/cgi/man.cgi?query=sysexits&sektion=3[FreeBSD Manual Pages]::
+
+  `sysexits(3)` for https://www.freebsd.org/[FreeBSD].
+
+https://man.netbsd.org/sysexits.3[NetBSD Manual Pages]::
+
+  `sysexits(3)` for https://www.netbsd.org/[NetBSD].
+
+https://man.openbsd.org/sysexits.3[OpenBSD manual pages]::
+
+  `sysexits(3)` for https://www.openbsd.org/[OpenBSD].
+
+== License
+
+image:{cc0-badge}[CC0 1.0 Universal, link={cc0-summary-url}]
+
+The contents of this repository are distributed under the terms of the
+{cc0-legalcode-url}[_CC0 1.0_].
+
+See link:LICENSE[] for more details.
