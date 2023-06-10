@@ -3,6 +3,7 @@
 //
 
 = Awesome sysexits
+:toc: macro
 :awesome-badge: https://awesome.re/badge-flat.svg
 :awesome-url: https://awesome.re/
 :github-url: https://github.com
