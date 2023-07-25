@@ -118,4 +118,4 @@ image:{cc0-badge}[CC0 1.0 Universal, link={cc0-summary-url}]
 The contents of this repository are distributed under the terms of the
 {cc0-legalcode-url}[_CC0 1.0_].
 
-See link:LICENSE[] for more details.
+See link:COPYING[] for more details.
