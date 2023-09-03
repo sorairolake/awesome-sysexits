@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: CC0-1.0
 
 = Awesome sysexits
-:toc: macro
+:toc: preamble
 :awesome-badge: https://awesome.re/badge-flat.svg
 :awesome-url: https://awesome.re/
 :github-url: https://github.com
@@ -16,8 +16,6 @@
 image:{awesome-badge}[Awesome, link={awesome-url}]
 
 A curated list of awesome things related to `<sysexits.h>`.
-
-toc::[]
 
 == Implementations
 
