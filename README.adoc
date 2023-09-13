@@ -13,7 +13,7 @@
 :cc0-summary-url: {cc0-url}
 :cc0-legalcode-url: {cc0-url}/legalcode
 
-image:{awesome-badge}[Awesome, link={awesome-url}]
+image:{awesome-badge}[Awesome,link={awesome-url}]
 
 A curated list of awesome things related to `<sysexits.h>`.
 
@@ -111,7 +111,7 @@ https://man.openbsd.org/sysexits.3[OpenBSD manual pages]::
 
 == License
 
-image:{cc0-badge}[CC0 1.0 Universal, link={cc0-summary-url}]
+image:{cc0-badge}[CC0 1.0 Universal,link={cc0-summary-url}]
 
 The contents of this repository are distributed under the terms of the
 {cc0-legalcode-url}[_CC0 1.0_].
