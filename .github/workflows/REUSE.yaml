@@ -5,10 +5,10 @@
 name: REUSE Compliance Check
 
 on:
+  pull_request:
   push:
     branches:
       - "master"
-  pull_request:
 
 jobs:
   reuse:
