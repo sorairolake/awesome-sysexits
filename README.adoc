@@ -12,6 +12,7 @@
 :cc0-url: {cc-url}/publicdomain/zero/1.0
 :cc0-summary-url: {cc0-url}
 :cc0-legalcode-url: {cc0-url}/legalcode
+:reuse-spec-url: https://reuse.software/spec/
 
 image:{awesome-badge}[Awesome,link={awesome-url}]
 
@@ -116,4 +117,7 @@ image:{cc0-badge}[CC0 1.0 Universal,link={cc0-summary-url}]
 The contents of this repository are distributed under the terms of the
 {cc0-legalcode-url}[_CC0 1.0_].
 
-See link:COPYING[] for more details.
+This project is compliant with version 3.0 of the
+{reuse-spec-url}[_REUSE Specification_]. See link:COPYING[] and copyright
+notices of individual files for more details on copyright and licensing
+information.
