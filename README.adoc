@@ -118,6 +118,5 @@ The contents of this repository are distributed under the terms of the
 {cc0-legalcode-url}[_CC0 1.0_].
 
 This project is compliant with version 3.0 of the
-{reuse-spec-url}[_REUSE Specification_]. See link:COPYING[] and copyright
-notices of individual files for more details on copyright and licensing
-information.
+{reuse-spec-url}[_REUSE Specification_]. See copyright notices of individual
+files for more details on copyright and licensing information.
