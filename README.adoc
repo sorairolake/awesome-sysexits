@@ -115,7 +115,7 @@ https://man.openbsd.org/sysexits.3[OpenBSD manual pages]::
 image:{cc0-badge}[CC0 1.0 Universal,link={cc0-summary-url}]
 
 The contents of this repository are distributed under the terms of the
-{cc0-legalcode-url}[_CC0 1.0_].
+{cc0-legalcode-url}[_CC0 1.0 Universal_].
 
 This project is compliant with version 3.0 of the
 {reuse-spec-url}[_REUSE Specification_]. See copyright notices of individual
