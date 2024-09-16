@@ -7,7 +7,7 @@ name: Mirror to mirror repositories
 on:
   push:
     branches:
-      - "develop"
+      - "master"
   workflow_dispatch:
 
 jobs:
