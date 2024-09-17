@@ -24,6 +24,7 @@ jobs:
         uses: yesolutions/mirror-action@v0.7.0
         with:
           REMOTE: "https://gitlab.com/sorairolake/awesome-sysexits.git"
+          GIT_USERNAME: sorairolake
           GIT_PASSWORD: ${{ secrets.GITLAB_TOKEN }}
           PUSH_ALL_REFS: "false"
 
@@ -40,5 +41,6 @@ jobs:
         uses: yesolutions/mirror-action@v0.7.0
         with:
           REMOTE: "https://codeberg.org/sorairolake/awesome-sysexits.git"
+          GIT_USERNAME: sorairolake
           GIT_PASSWORD: ${{ secrets.CODEBERG_TOKEN }}
           PUSH_ALL_REFS: "false"
