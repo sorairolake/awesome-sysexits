@@ -12,7 +12,7 @@
 :cc0-url: {cc-url}/publicdomain/zero/1.0
 :cc0-summary-url: {cc0-url}
 :cc0-legalcode-url: {cc0-url}/legalcode
-:reuse-spec-url: https://reuse.software/spec/
+:reuse-spec-url: https://reuse.software/spec-3.3/
 
 image:{awesome-badge}[Awesome,link={awesome-url}]
 
