@@ -20,6 +20,12 @@ A curated list of awesome things related to `<sysexits.h>`.
 
 == Implementations
 
+=== C#
+
+{github-url}/sorairolake/Sysexits.NET[Sysexits.NET]::
+
+  The system exit codes as defined by `<sysexits.h>` for .NET.
+
 === Dart
 
 {github-url}/mateusfccp/exitcode[exitcode]::
