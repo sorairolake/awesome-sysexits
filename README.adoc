@@ -24,7 +24,7 @@ A curated list of awesome things related to `<sysexits.h>`.
 
 {github-url}/sorairolake/Sysexits.NET[Sysexits.NET]::
 
-  The system exit codes as defined by `<sysexits.h>` for .NET.
+  A port of {github-url}/sorairolake/sysexits-rs[sysexits-rs] for .NET.
 
 === Dart
 
@@ -56,7 +56,7 @@ A curated list of awesome things related to `<sysexits.h>`.
 
 {github-url}/sorairolake/Sysexits.jl[Sysexits.jl]::
 
-  The system exit codes as defined by `<sysexits.h>` for Julia.
+  A port of {github-url}/sorairolake/sysexits-rs[sysexits-rs] for Julia.
 
 === PHP
 
@@ -94,7 +94,7 @@ A curated list of awesome things related to `<sysexits.h>`.
 
 {github-url}/sorairolake/sysexits-zig[sysexits-zig]::
 
-  The system exit codes as defined by `<sysexits.h>` for Zig.
+  A port of {github-url}/sorairolake/sysexits-rs[sysexits-rs] for Zig.
 
 == Resources
 
@@ -119,6 +119,8 @@ https://man.openbsd.org/sysexits.3[OpenBSD manual pages]::
 == License
 
 image:{cc0-badge}[CC0 1.0 Universal,link={cc0-summary-url}]
+
+Copyright (C) 2023 Shun Sakai
 
 The contents of this repository are distributed under the terms of the
 {cc0-legalcode-url}[_CC0 1.0 Universal_].
